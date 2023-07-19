@@ -38,7 +38,7 @@ This is a simple weather web app that displays the current weather information f
 - CSS
 - JavaScript
 
-## APIs Used
+## APIs  Used
 
 This app utilizes the following APIs:
 
